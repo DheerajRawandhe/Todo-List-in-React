@@ -1,4 +1,4 @@
-# Todo List in React 
+## Todo List in React 
 
 I created a To-Do List app using React, states, and hooks. The app allows users to add tasks, mark tasks as done, delete tasks, and display tasks in uppercase. I used the useState hook to manage the state of the tasks. 
 
